@@ -12,20 +12,16 @@ I'm an undergraduate student currently learning Golang and Machine learning
   <tbody>
     <tr>
       <td width=25% align="center">
-        <br><img width=100 src="https://symbols.getvecta.com/stencil_3/3_firebase.7a27120886.svg">
+        <br><img width=100 src="https://symbols.getvecta.com/stencil_80/64_flutter-icon.4fa6a5627f.svg">
         <br><br><span>Flutter
           </td>
         <td width=25% align="center">
-        <br><img width=100 src="https://symbols.getvecta.com/stencil_89/57_nodejs.a241d2807d.svg"><br><br>
+        <br><img width=100 src="https://symbols.getvecta.com/stencil_3/3_firebase.7a27120886.svg"><br><br>
         <br><br><span>Firebase
           </td>
         <td width=25% align="center">
         <br><img width=100 src="https://symbols.getvecta.com/stencil_25/2_javascript.4ce34e7594.svg">
         <br><br><span>JavaScript
-          </td>
-        <td width=25% align="center">
-        <br><img width=100 src="https://symbols.getvecta.com/stencil_89/57_nodejs.a241d2807d.svg"><br><br>
-        <br><br><span>NodeJS
           </td>
     </tr>
     <tr>
@@ -37,6 +33,12 @@ I'm an undergraduate student currently learning Golang and Machine learning
         <br><img width=100 src="https://symbols.getvecta.com/stencil_25/1_css3.3ce30826ea.svg">
         <br><br><span>CSS<br>
           </td>
+        <td width=25% align="center">
+        <br><img width=100 src="https://symbols.getvecta.com/stencil_89/57_nodejs.a241d2807d.svg"><br><br>
+        <br><br><span>NodeJS
+          </td>
+    </tr>
+    <tr>
       <td width=25% align="center">
         <br><img width=100 src="https://symbols.getvecta.com/stencil_88/108_mongodb.e1b50f67e6.svg"><br>
         <br><br><span>MongoDB<br>
