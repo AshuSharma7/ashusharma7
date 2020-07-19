@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAECcLGPgNU/qqRgCuR0VVSCuZP7gcOF5A/view?utm_content=DAECcLGPgNU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+<img src="https://www.canva.com/design/DAECcLGPgNU/qqRgCuR0VVSCuZP7gcOF5A/view">
 
 ### Hi!! I'M ASHU 👋
 I'm an undergraduate student currently learning Golang and Machine learning
