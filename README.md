@@ -35,13 +35,21 @@
         <br><br><span>CSS<br>
           </td>
         <td width=25% align="center">
-        <br><img width=100 src="https://symbols.getvecta.com/stencil_89/57_nodejs.a241d2807d.svg"><br><br>
+        <br><img width=100 src="https://img.icons8.com/color/96/000000/nodejs.png"/><br><br>
         <br><br><span>NodeJS
           </td>
     </tr>
     <tr>
       <td width=25% align="center">
-        <br><img width=100 src="https://symbols.getvecta.com/stencil_88/108_mongodb.e1b50f67e6.svg"><br>
+        <br><img width=100 src="https://img.icons8.com/color/96/000000/mongodb.png"/><br>
+        <br><br><span>MongoDB<br>
+          </td>
+         <td width=25% align="center">
+        <br><img width=100 src="https://img.icons8.com/color/96/000000/figma--v2.png"/><br>
+        <br><br><span>MongoDB<br>
+          </td>
+            <td width=25% align="center">
+        <br><img width=100 src="https://img.icons8.com/dusk/128/000000/react.png"/><br>
         <br><br><span>MongoDB<br>
           </td>
     </tr>
