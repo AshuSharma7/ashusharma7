@@ -1,7 +1,6 @@
 <img src="https://github.com/AshuSharma7/ashusharma7/blob/master/cover.png">
 
 ### Hi!! I'M ASHU 👋
-I'm an undergraduate student currently learning Golang and Machine learning
 - Programmer 🌃
 - Android Enthusiast 
 - Bibliophile 📚
@@ -14,25 +13,25 @@ I'm an undergraduate student currently learning Golang and Machine learning
   <tbody>
     <tr>
       <td width=25% align="center">
-        <img width=100 src="https://symbols.getvecta.com/stencil_80/64_flutter-icon.4fa6a5627f.svg">
+        <img width=100 src="https://img.icons8.com/color/144/000000/flutter.png"/>
         <br><br><span>Flutter
           </td>
         <td width=25% align="center">
-        <img width=100 src="https://symbols.getvecta.com/stencil_3/3_firebase.7a27120886.svg">
+        <img width=100 src="https://img.icons8.com/color/144/000000/firebase.png"/>
         <br><br><span>Firebase
           </td>
         <td width=25% align="center">
-        <img width=100 src="https://symbols.getvecta.com/stencil_25/2_javascript.4ce34e7594.svg">
+        <img width=100 src="https://img.icons8.com/color/144/000000/javascript--v1.png"/>
         <br><br><span>JavaScript
           </td>
     </tr>
     <tr>
       <td width=25% align="center">
-        <br><img width=100 src="https://symbols.getvecta.com/stencil_83/80_html5-icon.188a97e7dd.svg">
+        <br><img width=100 src="https://img.icons8.com/color/144/000000/html-5.png"/>
         <br><br><span>HTML<br>
           </td>
       <td width=25% align="center">
-        <br><img width=100 src="https://symbols.getvecta.com/stencil_25/1_css3.3ce30826ea.svg">
+        <br><img width=100 src="https://img.icons8.com/color/144/000000/css3.png"/>
         <br><br><span>CSS<br>
           </td>
         <td width=25% align="center">
